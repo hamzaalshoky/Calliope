@@ -1,0 +1,6 @@
+{
+  "parent": "calliope:item/journey_bow",
+  "textures": {
+    "layer0": "calliope:item/unstrung_journey_bow_pulling_0"
+  }
+}
